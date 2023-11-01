@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e810d97-abde-4bc9-b897-ce36026d48c4" name="Changes" comment="Kurs Udemy: &quot;Java - ambitny start&quot; &#10;Zadanie 1: Logowanie przez konsolę SLF4J&#10;-zastąpienie System.out.println() przez Logger" />
+    <list default="true" id="8e810d97-abde-4bc9-b897-ce36026d48c4" name="Changes" comment="Kurs Udemy: &quot;Java - ambitny start&quot; &#10;Zadanie 2: Query parametry - pierwszy sposób na &quot;content negotiation&quot;.&#10;Przygotowanie środowiska do wykonania zadania" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,9 +28,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2XaAncgX5t6c13KXIgTPkQvketN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -44,7 +44,8 @@
     "last_opened_file_path": "C:/Users/Arkadia/Desktop/Nauka/UdemyJavaAmbitnyStartCwiczenia",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -97,8 +98,20 @@
       <option name="project" value="LOCAL" />
       <updated>1698860480654</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Kurs Udemy: &quot;Java - ambitny start&quot; &#10;Zadanie 2: Query parametry - pierwszy sposób na &quot;content negotiation&quot;.&#10;Przygotowanie środowiska do wykonania zadania">
+      <option name="closed" value="true" />
+      <created>1698865644776</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698865644776</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="executable:docker" />
+    <option featureType="dependencySupport" implementationName="executable:kubectl" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -113,6 +126,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Kurs Udemy: &quot;Java - ambitny start&quot; &#10;Zadanie 1: Logowanie przez konsolę SLF4J&#10;-zastąpienie System.out.println() przez Logger" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kurs Udemy: &quot;Java - ambitny start&quot; &#10;Zadanie 1: Logowanie przez konsolę SLF4J&#10;-zastąpienie System.out.println() przez Logger" />
+    <MESSAGE value="Kurs Udemy: &quot;Java - ambitny start&quot; &#10;Zadanie 2: Query parametry - pierwszy sposób na &quot;content negotiation&quot;.&#10;Przygotowanie środowiska do wykonania zadania" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kurs Udemy: &quot;Java - ambitny start&quot; &#10;Zadanie 2: Query parametry - pierwszy sposób na &quot;content negotiation&quot;.&#10;Przygotowanie środowiska do wykonania zadania" />
   </component>
 </project>
