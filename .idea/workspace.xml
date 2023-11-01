@@ -37,17 +37,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Arkadia/Desktop/Nauka/UdemyJavaAmbitnyStartCwiczenia",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Arkadia/Desktop/Nauka/UdemyJavaAmbitnyStartCwiczenia&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
@@ -106,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698865644776</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Kurs Udemy: &quot;Java - ambitny start&quot; &#10;Zadanie 2: Query parametry - pierwszy sposób na &quot;content negotiation&quot;.&#10;Przygotowanie środowiska do wykonania zadania">
+      <option name="closed" value="true" />
+      <created>1698865728514</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698865728514</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -128,5 +136,9 @@
     <MESSAGE value="Kurs Udemy: &quot;Java - ambitny start&quot; &#10;Zadanie 1: Logowanie przez konsolę SLF4J&#10;-zastąpienie System.out.println() przez Logger" />
     <MESSAGE value="Kurs Udemy: &quot;Java - ambitny start&quot; &#10;Zadanie 2: Query parametry - pierwszy sposób na &quot;content negotiation&quot;.&#10;Przygotowanie środowiska do wykonania zadania" />
     <option name="LAST_COMMIT_MESSAGE" value="Kurs Udemy: &quot;Java - ambitny start&quot; &#10;Zadanie 2: Query parametry - pierwszy sposób na &quot;content negotiation&quot;.&#10;Przygotowanie środowiska do wykonania zadania" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
