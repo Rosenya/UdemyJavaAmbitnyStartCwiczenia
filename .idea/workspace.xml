@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e810d97-abde-4bc9-b897-ce36026d48c4" name="Changes" comment="Kurs Udemy: &quot;Java - ambitny start&quot; &#10;Zadanie 2: Query parametry - pierwszy sposób na &quot;content negotiation&quot;.&#10;Przygotowanie środowiska do wykonania zadania" />
+    <list default="true" id="8e810d97-abde-4bc9-b897-ce36026d48c4" name="Changes" comment="Kurs Udemy: &quot;Java - ambitny start&quot; &#10;Zadanie 2: Query parametry - pierwszy sposób na &quot;content negotiation&quot;.&#10;Przygotowanie środowiska do wykonania zadania">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ex2/QuerryParameters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex2/QuerryParameters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +59,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LogToConsoleSLF4J">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="LogToConsoleSLF4J" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex1.LogToConsoleSLF4J" />
       <module name="UdemyJavaAmbitnyStartCwiczenia" />
@@ -76,8 +82,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LogToConsoleSLF4J" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.LogToConsoleSLF4J" />
       </list>
     </recent_temporary>
   </component>
@@ -114,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698865728514</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Kurs Udemy: &quot;Java - ambitny start&quot; &#10;Zadanie 2: Query parametry - pierwszy sposób na &quot;content negotiation&quot;.&#10;Przygotowanie środowiska do wykonania zadania">
+      <option name="closed" value="true" />
+      <created>1698866085485</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698866085485</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="UnknownFeatures">
