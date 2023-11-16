@@ -4,12 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e810d97-abde-4bc9-b897-ce36026d48c4" name="Changes" comment="Kurs Udemy: &quot;Java - ambitny start&quot; &#10;Zadanie 2: Query parametry - pierwszy sposób na &quot;content negotiation&quot;.&#10;Przygotowanie środowiska do wykonania zadania">
+    <list default="true" id="8e810d97-abde-4bc9-b897-ce36026d48c4" name="Changes" comment="Kurs Udemy: &quot;Java - ambitny start&quot; &#10;Zadanie 2: Query parametry - pierwszy sposób na &quot;content negotiation&quot;.&#10;Rozwiązanie">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ex3/Lang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ex3/LangRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ex3/TestExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ex4/DatabaseConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ex5/PracticeDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex3/TestExampleTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ex2/QuerryParameters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex2/QuerryParameters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +41,9 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2XaAncgX5t6c13KXIgTPkQvketN" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -128,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698866085485</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Kurs Udemy: &quot;Java - ambitny start&quot; &#10;Zadanie 2: Query parametry - pierwszy sposób na &quot;content negotiation&quot;.&#10;Rozwiązanie">
+      <option name="closed" value="true" />
+      <created>1698868175303</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698868175303</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -149,7 +162,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Kurs Udemy: &quot;Java - ambitny start&quot; &#10;Zadanie 1: Logowanie przez konsolę SLF4J&#10;-zastąpienie System.out.println() przez Logger" />
     <MESSAGE value="Kurs Udemy: &quot;Java - ambitny start&quot; &#10;Zadanie 2: Query parametry - pierwszy sposób na &quot;content negotiation&quot;.&#10;Przygotowanie środowiska do wykonania zadania" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kurs Udemy: &quot;Java - ambitny start&quot; &#10;Zadanie 2: Query parametry - pierwszy sposób na &quot;content negotiation&quot;.&#10;Przygotowanie środowiska do wykonania zadania" />
+    <MESSAGE value="Kurs Udemy: &quot;Java - ambitny start&quot; &#10;Zadanie 2: Query parametry - pierwszy sposób na &quot;content negotiation&quot;.&#10;Rozwiązanie" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kurs Udemy: &quot;Java - ambitny start&quot; &#10;Zadanie 2: Query parametry - pierwszy sposób na &quot;content negotiation&quot;.&#10;Rozwiązanie" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
