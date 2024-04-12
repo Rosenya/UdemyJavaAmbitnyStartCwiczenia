@@ -4,15 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e810d97-abde-4bc9-b897-ce36026d48c4" name="Changes" comment="Kurs Udemy: &quot;Java - ambitny start&quot; &#10;Zadanie 2: Query parametry - pierwszy sposób na &quot;content negotiation&quot;.&#10;Rozwiązanie">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex3/Lang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex3/LangRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex3/TestExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex4/DatabaseConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex5/PracticeDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex3/TestExampleTest.java" afterDir="false" />
+    <list default="true" id="8e810d97-abde-4bc9-b897-ce36026d48c4" name="Changes" comment="Kurs Udemy: &quot;Java - ambitny start&quot; &#10;Zadanie 5: Utwórz strukturę DTO">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ex6/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ex6/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ex6/LambdaSoundMaker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ex5/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex5/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ex5/UserDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex5/UserDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ex5/UserDTOMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex5/UserDTOMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ex5/UserModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex5/UserModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ex5/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex5/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ex5/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex5/UserService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -64,7 +67,20 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.LambdaSoundMaker">
+    <configuration name="LambdaSoundMaker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex6.LambdaSoundMaker" />
+      <module name="UdemyJavaAmbitnyStartCwiczenia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LogToConsoleSLF4J" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex1.LogToConsoleSLF4J" />
       <module name="UdemyJavaAmbitnyStartCwiczenia" />
@@ -87,6 +103,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LambdaSoundMaker" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.LogToConsoleSLF4J" />
       </list>
@@ -141,7 +158,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698868175303</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Kurs Udemy: &quot;Java - ambitny start&quot; &#10;Zadanie 5: Utwórz strukturę DTO">
+      <option name="closed" value="true" />
+      <created>1700159836189</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1700159836189</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -163,7 +188,8 @@
     <MESSAGE value="Kurs Udemy: &quot;Java - ambitny start&quot; &#10;Zadanie 1: Logowanie przez konsolę SLF4J&#10;-zastąpienie System.out.println() przez Logger" />
     <MESSAGE value="Kurs Udemy: &quot;Java - ambitny start&quot; &#10;Zadanie 2: Query parametry - pierwszy sposób na &quot;content negotiation&quot;.&#10;Przygotowanie środowiska do wykonania zadania" />
     <MESSAGE value="Kurs Udemy: &quot;Java - ambitny start&quot; &#10;Zadanie 2: Query parametry - pierwszy sposób na &quot;content negotiation&quot;.&#10;Rozwiązanie" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kurs Udemy: &quot;Java - ambitny start&quot; &#10;Zadanie 2: Query parametry - pierwszy sposób na &quot;content negotiation&quot;.&#10;Rozwiązanie" />
+    <MESSAGE value="Kurs Udemy: &quot;Java - ambitny start&quot; &#10;Zadanie 5: Utwórz strukturę DTO" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kurs Udemy: &quot;Java - ambitny start&quot; &#10;Zadanie 5: Utwórz strukturę DTO" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
